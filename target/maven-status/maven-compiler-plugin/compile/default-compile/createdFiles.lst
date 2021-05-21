@@ -1,0 +1,4 @@
+workman\link\workman\mapper\userMapper.class
+workman\link\workman\controller\userController.class
+workman\link\workman\entity\user.class
+workman\link\workman\WorkmanApplication.class
